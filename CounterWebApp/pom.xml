@@ -21,8 +21,6 @@
         <id>central</id>
         <name>CDC1-D-47S8N62-releases</name>
          <url>http://10.230.171.56:8081/artifactory/ext-release-local</url>
-		 <username>vinay</username>
-		<password>vinay</password>
     </repository>
 	</distributionManagement>
   <build>
