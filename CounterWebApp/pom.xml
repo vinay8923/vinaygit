@@ -4,7 +4,7 @@
   <groupId>CounterWebApp</groupId>
   <artifactId>test</artifactId>
   <packaging>war</packaging>
-  <version>4.0-RELEASE</version>
+  <version>5.0-RELEASE</version>
   <name>CounterWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -18,8 +18,8 @@
   </dependencies>
   <distributionManagement>
     <repository>
-        <id>central</id>
-        <name>CDC1-D-47S8N62-releases</name>
+	<id>central</id>
+         <name>CDC1-D-47S8N62-releases</name>
          <url>http://10.230.171.56:8081/artifactory/ext-release-local</url>
     </repository>
 	</distributionManagement>
