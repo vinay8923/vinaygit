@@ -23,6 +23,7 @@
          <url>http://10.230.171.56:8081/artifactory/ext-release-local</url>
     </repository>
 	</distributionManagement>
+	
   <build>
     <finalName>CounterWebApp</finalName>
   </build>
