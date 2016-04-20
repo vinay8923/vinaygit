@@ -4,7 +4,7 @@
   <groupId>CounterWebApp</groupId>
   <artifactId>test</artifactId>
   <packaging>war</packaging>
-  <version>5.0-RELEASE</version>
+  <version>6.0-RELEASE</version>
   <name>CounterWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
